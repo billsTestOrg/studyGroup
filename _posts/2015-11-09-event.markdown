@@ -1,0 +1,9 @@
+---
+title: Study Group Initial Meetup
+text: Let's Drink Java Together
+location: ComSoc Garden - University of Jaffna
+link: https://github.com/nifrasismail/studyGroup/issues/1
+date: 2015-11-09
+startTime: '12:00'
+endTime: '13:00'
+---
