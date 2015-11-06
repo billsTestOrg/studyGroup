@@ -17,14 +17,14 @@ activities:
     icon: fa-group
 
 events: Events
-eventsSubheading: Our upcoming and recent events
+eventsSubheading: Our upcoming and recent sessions
 eventPlaceholder: Nothing yet! Propose an event here.
 suggestEvent: Suggest an Event
 leadership: How to lead a Study Group session
 
 notification: Want to be notified of our upcoming events?
-watching: 'Head over to <a href="{{ site.github.repository_url }}">GitHub</a> and watch our repository, like this:'
-watchingCaption: 'Look in the top right-hand corner of <a href="{{ site.github.repository_url }}">our repo</a>, and click "Watching." <br>You can undo this at any time in the same place.'
+watching: 'Head over to <a href="http://goo.gl/forms/OzT3JlPQYZ">Register</a> and watch our repository, like this:'
+watchingCaption: 'Look in the top right-hand corner of <a href="https://github.com/nifrasismail/studyGroup">our repo</a>, and click "Watching." <br>You can undo this at any time in the same place.'
 
 calendar: Subscribe to our events calendar!
 calendarSubheading: 'We also invite you to follow <a href="{{ site.calendar_embed_url }}" target="_blank">our calendar</a>, where events will be posted.'
