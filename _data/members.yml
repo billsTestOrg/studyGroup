@@ -5,9 +5,15 @@
     - Programming
     - Open Science
 - name: Nifras Ismail
-  affiliation: A Seed
+  affiliation: UOJ
   github: nifrasismail
   interests:
     - Java
     - Android
+- name: Mohamed Zajith
+  affiliation: UOJ
+  github: mohamedzajith
+  interests:
+    - Java
+    - MongoDB
 
