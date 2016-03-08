@@ -1,0 +1,9 @@
+---
+title: System Analysis and Designs Concept Discussion.
+text: Discussion on System Analysis and Design
+location: Open Stadium Dept. of Computer Science - University of Jaffna
+link: https://github.com/nifrasismail/studyGroup/issues/7
+date: 2016-03-09
+startTime: '10:00'
+endTime: '17:00'
+---
