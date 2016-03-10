@@ -5,6 +5,7 @@ Welcome to [Mozilla Science Lab](https://www.mozillascience.org/)'s Study Group 
 
 ### Wait What's a 'Mozilla Study Group'?
 
+
 Mozilla Study Groups are fun, informal meetups of your friends and colleagues from around your local institution or town to share skills, stories and ideas on using code for research. The goal is to create a friendly, no-pressure environment where people can share their work, ask for help on a coding problem, and learn and work together with their peers.
 
 ## For Participants
